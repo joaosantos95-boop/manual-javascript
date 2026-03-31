@@ -34,12 +34,20 @@
 
 # Diferença entre == e === - (== Compara valor IGNORA TIPO). (=== Compara valor e Tipo)
 
-# Diferença entre != e !== - != Diferente (IGNORA TIPO)
+# Diferença entre != e !== - != Diferente (IGNORA TIPO), !== Diferente (Compara TIPO).
+
+# Como Declarar Funções - Funções executam ações: Como por exemplo uma saudação automatica sem a necessidade de uma saudação manual.
+
+# Operações Aritméticas e Lógicas - Aritméticas (Let soma = 5 + 3); Lógicas (true && false // AND)
+
+# Estruturas Condicionais - let idade = 18 if e etc...
+
+# Estruturas de Repetição - for (para), while (enquanto).
+
+# Interação com Elementos da Página - JavaScript pode alterar o HTML.
 
 # Organização - Cada arquivo dentro da Pasta têm um arquivo que representa algo como: Index.html, Style.css, Script.js
 
 # Eventos - Captura interações do usuário (Cliques, Teclado e etc)...
 
 # Formulários - Validação e Manipulação de dados inseridos pelo usuários
-
-# Observações - O código fo escrito de forma simples e comentada para facilitar o aprendizado. Todos os Exemplos podem ser executados abrindo o arquivo 'Index.html' no navegador.
